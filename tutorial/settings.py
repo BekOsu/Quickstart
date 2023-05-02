@@ -26,7 +26,6 @@ INSTALLED_APPS = [
     # packages
     'rest_framework',
     # app
-    'quickstart',
     'snippets',
 ]
 
